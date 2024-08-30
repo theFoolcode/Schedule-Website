@@ -30,6 +30,12 @@ h3 {
   font-size: 1em;
 }
 
+#link{
+  margin-bottom: 20px;
+  font-size: 1em;
+  color: #e0e0e0;
+}
+
 table {
   width: 100%;
   border-collapse: collapse;
