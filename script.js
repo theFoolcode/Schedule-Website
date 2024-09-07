@@ -70,21 +70,26 @@ const schedule = {
       subject: "Computer Programming (C++)",
       duration: "1:00 PM - 3:00 PM",
     },
-  ],
-  Thursday: [
     {
-      time: "10 AM",
+      time: "3 PM",
       code: "SSP 100",
-      subject: "Philippine Indigenous Communities",
-      duration: "10:00 AM - 12:00 PM",
+      subject: "Philippine Indigenous Communication",
+      duration: "3:00 PM - 4:00 PM",
     },
   ],
+  Thursday: [],
   Friday: [
     {
       time: "9 AM",
       code: "IT 110",
       subject: "Introduction to Computing",
       duration: "9:00 AM - 12:00 PM",
+    },
+    {
+      time: "2 PM",
+      code: "SSP 100",
+      subject: "Philippine Indigenous Communication",
+      duration: "2:30 PM - 3:30 PM",
     },
   ],
   Saturday: [
